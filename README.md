@@ -2,30 +2,42 @@
 
 ## Project Description
 
-This project models attendance dynamics in voluntary student organizations at Boston University. We focus on three major categories of clubs: cultural organizations, professional development organizations, and technical/academic clubs.
+This project investigates whether a systematic attendance decay pattern exists in voluntary student organizations at Boston University. We focus on three major categories of clubs: cultural organizations, professional development organizations, and technical/academic clubs.
 
-Voluntary organizations often experience an initial spike in attendance at the beginning of the semester followed by decline and eventual stabilization. We aim to quantify this attendance decay pattern and determine whether early-semester attendance signals can predict longer-term engagement outcomes.
+Voluntary organizations are commonly believed to experience an initial spike in attendance at the beginning of the semester followed by decline and eventual stabilization. However, it is unclear whether this pattern is consistent, statistically significant, and structurally meaningful across organizations.
 
-This project will practice the full data science lifecycle, including data collection, cleaning, feature extraction, visualization, modeling, and evaluation.
+The primary aim of this project is to empirically test whether attendance decay is a measurable and recurring phenomenon. If such a pattern exists, we will further examine how it varies across organization types and whether early-semester attendance behavior contains sufficient signal to predict longer-term engagement outcomes.
+
+This project will follow the full data science lifecycle, including data collection, cleaning, feature extraction, visualization, modeling, and evaluation.
 
 ## Project Goals
 
 ### Primary Goal
 
-Predict Week 6 average attendance of a student organization using only Week 1–2 attendance data and structural features.
+Determine whether a statistically significant attendance decay pattern exists across voluntary student organizations over the course of a semester.
 
-Evaluation metrics:
+We will measure this using:
+
+- Estimated weekly attendance slopes
+- Decay coefficients from fitted models
+- Statistical tests evaluating whether average attendance change is significantly negative
+- Analysis of whether stabilization (plateau formation) occurs
+
+> This establishes whether the Attendance Decay Curve (ADC) is empirically supported or merely anecdotal.
+
+## Secondary Goals
+
+- Estimate attendance decay rates for each organization and compare differences across cultural, professional development, and academic clubs.
+- Classify organizations into attendance trajectory categories (e.g., stable plateau, steep decline, event volatility) using early semester attendance data.
+- Analyze whether event attendance spikes significantly affect long-term plateau size.
+- Evaluate whether Week 1–2 attendance data can meaningfully predict Week 6 average attendance.
+
+Evaluation metrics for predictive modeling:
+
 - Mean Absolute Error (MAE)
 - R² score
 
-> This determines whether it is even possible to predict attendance rates based on early, limited data.
-
-Secondary Goals
-- Estimate attendance decay rates for each organization and compare differences across cultural, professional development, and academic clubs.
-- Classify organizations into stability categories (e.g., stable plateau vs. steep decline) using early semester attendance data.
-- Analyze whether event based attendance spikes significantly impact long-term plateau size.
-
-All goals are specific, measurable, and can be tied to quantitative outcomes.
+All goals are specific, measurable, and tied to quantitative outcomes.
 
 ## Data Collection Plan
 
