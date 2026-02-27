@@ -1,0 +1,302 @@
+1. (Kasual)Kicks Soccer Club (kasualkicks): lilksim@bu.edu
+2. 180 Degrees Consulting (180-degrees-consulting): boston@180dc.org
+3. Accounting Association (accounting-association): buaa@bu.edu
+4. AdClub (adclub): buadclub@bu.edu
+5. Adopted and Multicultural Student Organization (adoptedandmulticulturalstudentalliance): amsa.bostonu@gmail.com
+6. African Students Organization (african-students-organization): buaso@bu.edu
+7. Afrithms (afrithms): afrithms@bu.edu
+8. After School Newsletter (buas): buafterschool@163.com
+9. Ahlul-Bayt Student Association at Boston University (absanetwork): absa.bostonu@gmail.com
+10. Albanian Student Association (asa): begollia@bu.edu
+11. Alianza Latina (alianza-latina): AlianzaL@bu.edu
+12. Alliance of Portuguese Speakers (aps): cagomes@bu.edu
+13. Alpha Chi Sigma (alpha-chi-sigma): jsenel@bu.edu
+14. Alpha Kappa Psi (alpha-kappa-psi): akpsi.nu.chapter@gmail.com
+15. Alpha Phi Omega (alpha-phi-omega): president.buapo@gmail.com
+16. Alpha Sigma Kappa - Women in Technical Studies (ask): bualphasigmakappa@gmail.com
+17. Alternative Investments Group (buaig): buaig@bu.edu
+18. Alzheimer's Buddies (alzheimersbuddies): bu@alzbuddies.org
+19. American Cancer Society on Campus (colleges-against-cancer): relaybu@gmail.com
+20. American Institute of Aeronautics & Astronautics (american-institute-of-aeronautics-astronautics): aiaa@bu.edu
+21. American Society of Biochemistry and Molecular Biology (american-society-of-bmb): asbmbu@bu.edu
+22. American Society of Mechanical Engineers (american-society-of-mechanical-engineers): asme@bu.edu
+23. Anthropology In The Works (anthropology-in-the-works): aitw@bu.edu
+24. Arab Student Organization (arabs): arabsbu@gmail.com
+25. Arab Students in Business at BU (bostonuniversityarabstudentsinbusiness): asb.bostonu@gmail.com
+26. Archaeology Society (archaeology-society): aegreen@bu.edu
+27. Arché, Boston University's Student-Led Journal of Philosophy (arche): arche@bu.edu
+28. Armenian Students Association (armenian-students-association): asa@bu.edu
+29. Art for the Heart (artfortheheart): artheart@bu.edu
+30. Art History Association (art-history-association): aha@bu.edu
+31. Artificial Intelligence Society (aisociety): buais@bu.edu
+32. Asian Student Union (asian-student-union): buasu@bu.edu
+33. Association for Women in Mathematics: Student Chapter (buawm): buawmchapter@gmail.com
+34. Association of Latino Professionals for America (alpfa): alpfa@bu.edu
+35. Astronomical Society (astronomical-society): buastro@bu.edu
+36. Autism Spectrum Awareness Association (autismspectrumawarenessassociation): asaa@bu.edu
+37. Automotive Club (buautomotiveclub): autoclub@bu.edu
+38. Baja - Society of Automotive Engineers (baja-sae): saebaja@bu.edu
+39. Bangladeshi Students' Association (bangladeshi-students-association): bubangla@gmail.com
+40. Barbell Club (bubarbell): Miaheim@bu.edu
+41. Best Buddies (best-buddies): buddies@bu.edu
+42. Beta Psi Omega (bpsio): bpsio@bu.edu
+43. Biology and Business Club (biobiz): adwax@bu.edu
+44. Biomedical Engineering Society (biomedical-engineering-society): bmes.bu@gmail.com
+45. BIPOC Mental Health Collective (bipocmhc): cavelles@bu.edu
+46. Black Business Student Association (black-business-student-association): bbsa@bu.edu
+47. Blockchain Club (blockchain-club): bub@bu.edu / sjc@bu.edu
+48. Board Games Club (board-games-club): bubgc@bu.edu
+49. BostonHacks (boston-hacks): contacts@bostonhacks.io
+50. Brazilian Association (brazilian-association): None
+51. Breathe BU (breathebu): BostonUBreathe@gmail.com
+52. BridgeBU (bridgebu): bridgebostonu@gmail.com
+53. Brothers United (brothersunited): brotheru@bu.edu
+54. Bug Club (bugclub): lindens@bu.edu
+55. Burmese Student Association (bubursa): bostonubursa@gmail.com
+56. Business & Technology Club (business-technology-club): biztech@bu.edu
+57. Business Law Club (bubusinesslawclub): bostonubizlaw@gmail.com
+58. Camp Kesem (kesembu): bostonu@kesem.org
+59. Campus Activities Board (cab): cabbu@bu.edu
+60. Campus Closet BU (bu-closet): bostonucloset@gmail.com
+61. Cape Verdean Student Association (cvsa): CVstudentsassoc@gmail.com
+62. Center for Gender Sexuality and Activism (center-for-gender-sexuality-and-activism): cgsa@bu.edu
+63. Chemia (chemia): buchemia@bu.edu
+64. Chess Club (chess-club): chessbu@bu.edu
+65. Chinese Students Association (chinese-students-association): bostonuniversitycsa@gmail.com
+66. Circle K International (circle-k-international): bucirclekinternational@gmail.com
+67. CleanTech Club (bucleantech): clntech@bu.edu
+68. Climbing Club (climbingclub): sylvie@bu.edu
+69. Club Colombia (clubcolombiabu): clubcol@bu.edu
+70. Community Gardens at BU (bugardens): warrengarden.bu@gmail.com
+71. Computer Science Club (cscic): bucsclub@bu.edu
+72. Conscious Educators of Color (cec): None
+73. Consulting Group (consulting-group): bucg@bu.edu
+74. Cybersecurity Association (cybersecurity-assn): bucys@bu.edu
+75. Data Science Association (budsa): dsabu@bu.edu
+76. Deaf Studies Club (deaf-studies-club): budsc@bu.edu
+77. Debate Society (debate-society): boston.university.debate@gmail.com
+78. Delta Kappa Alpha (delta-kappa-alpha): secretary@bu.dka.org
+79. Delta Phi Epsilon International (delta-phi-epsilon-international): dpe@bu.edu
+80. Delta Sigma Pi (delta-sigma-pi): dspgamma@gmail.com
+81. Diversity in Law Association (diversity-in-law-association): budiversityinlawassociation@gmail.com
+82. Dodgeball Club (dodgeballclub): iherrick@bu.edu
+83. Dominican Student Association at BU (dsabu): bostonu.dsa@gmail.com
+84. Egyptian Club (egyptian-club): yasmeene@bu.edu
+85. Elementary Education (elementary-education): lmedclub@bu.edu
+86. Emergency Medical Service Club (emsclub): buemsclub@gmail.com
+87. Engineers Without Borders (engineers-without-borders): president.ewbbu@gmail.com 
+88. Entrepreneur's Club (entrepreneurs-club): eclub@bu.edu
+89. Environmental Student Organization (environmental-student-organization): eso@bu.edu
+90. Epsilon Eta (epsilon-eta): epsiloneta.bu@gmail.com
+91. Eritrean and Ethiopian Students Association (eritrean-and-ethiopian-students-association): eesa@bu.edu
+92. F1Tenth Autonomous Racing Organization at Boston University (f1tenthautonomousracingorg): f1tenthbu@gmail.com
+93. FeelGood World (feelgood-world): feelgood@bu.edu
+94. Filipino Student Association (filipino-student-association): bufsa@bu.edu
+95. FilmBiz: Boston University’s Entertainment Business Club (filmbiz): bufilmbiz@gmail.com
+96. Finance and Investment Club (finance-and-investment-club): buinvest@bu.edu
+97. Financial Modeling Club (financial-modeling-club): buexcel@bu.edu
+98. Financial Technology Group (financial-technology-group): fintechc@bu.edu
+99. First Generation and/or Low Income Partnership (flipbostonu): flip@bu.edu
+100. Flag Football Club (na): rhomer@bu.edu 
+101. FORGE Design Studios (forgedesignstudios): budesign@bu.edu
+102. French Club (french-club): afbu@bu.edu
+103. Gaming Club (gaming-club): bugamingclub@gmail.com
+104. Generational Black American Student Organization (soulaan): soulaan@bu.edu
+105. Geological Society (bugs): bugeologicalsociety@gmail.com
+106. German Culture Club (german-culture-club): germancc@bu.edu
+107. Ghanaian Student Organization (gso): bugso@bu.edu
+108. Girl Gains Boston University (girlgainsbu): ggains@bu.edu
+109. Girls Inc (swsg): bu@swsg.org
+110. Girls Who Code (bugwcchapter): gwcbu@bu.edu
+111. Gliding &amp; Soaring at Boston University (bugliding): terriergliding@gmail.com
+112. Global China Connection (global-china-connection): bugcc@bu.edu
+113. Global Engineering Brigade (global-engineering-brigade): bugengb@gmail.com
+114. Global Medical Brigades (global-medical-brigades): gmb.bostonu@gmail.com
+115. Global Tea Club at Boston University (global-tea-club): buglobalteaclub@gmail.com
+116. Graduate Chinese Students and Scholars Association - 47600 (bucssa): isgrace@bu.edu
+117. Graphic Medicine Club (graphicmedicine): gmed@bu.edu
+118. GroupIRean: Korean Diplomatic and Political Association (groupirean): None
+119. Guerrilla Marketing Society (guerrilla-marketing-society): bugms@bu.edu
+120. Hack4Impact (hack4impact): bostonuniversity@hack4impact.org
+121. HackHardware (hackhardwarebu): hackh@bu.edu
+122. Half-Asian People's Association (hapa): hapa@bu.edu
+123. Hawaii Cultural Association (hawaii-cultural-association): pauhana@bu.edu
+124. Healing Hearts for Hope (3hclub): hhhclub@bu.edu
+125. Healthcare Improvement Inc (healthcareimprovementinc): hci@bu.edu
+126. Hearts for the Homeless Boston (hearts-4-the-homeless-boston-university): hearts@bu.edu
+127. Hellenic Association (hellenic-association): hellenic@bu.edu
+128. Helping Hands for the Homeless (helping-hands-for-the-homeless): buhelphand@gmail.com
+129. Her Campus Boston University (hercampusbu): hc.bu@hercampus.com
+130. Her Financial Future (herfinancialfuture): HFFuture@bu.edu
+131. herNetwork - Boston University Women in Business (hernetwork-boston-university-women-in-business): herntwrk@bu.edu
+132. High Performance Computing Club (high-performance-computing-club): buhpc@bu.edu
+133. Himalayan Student Association (bu-hsa): hsa@bu.edu
+134. Hindu Cultural Association (buhca): buhsc@bu.edu
+135. Hong Kong Student Association (hong-kong-student-association): 1buhksa@gmail.com
+136. Hospitality Association at BU (hospitality-association): buha0928@gmail.com
+137. IEEE Student Chapter/IEEE-HKN (ieee-student-chapter-ieee-hkn): ieee@bu.edu
+138. India Club (india-club): buindiaclub@gmail.com
+139. Indonesian Student Association (indonesian-student-association): isabu@bu.edu
+140. Interface of Science, Technology, Engineering, and Policy (instepatbu): None
+141. International Affairs Association (international-affairs-association): buiaa.exec@gmail.com
+142. It's On Us (itsonus): itsonus@bu.edu
+143. Italian Students Association (italian-students-association): italians@bu.edu
+144. Japanese Student Association (japanese-student-association): bujsa@bu.edu
+145. Jewish on Campus at Boston University (jewishoncampus): bostonuniversity@jewishoncampus.org
+146. Journal of History at Boston University (bujh): bujh@bu.edu
+147. Journalists of Color (bujoc): bujournalistsofcolor@gmail.com
+148. Kappa Alpha Psi Fraternity, Inc (kappaalphapsi): Chi.kapsi@gmail.com
+149. Kappa Theta Pi (ktpbostonu): ktpbostonu@gmail.com
+150. Khmer Student Association at Boston University (khmer-student-association): None
+151. Kidney Disease Screening and Awareness Program (kidney-disease-screening-and-awareness-program): kdsapbu@gmail.com
+152. Knitting Club (knitting-club): knitting@bu.edu
+153. Korean Graduate Student Association (kgsa): bu.kgsa@gmail.com
+154. Korean Student Association (korean-student-association): buksa@bu.edu
+155. La Casa Peruana (lacasaperuana): casaperu@bu.edu
+156. Latin American Business Association (workinprogress): dancastr@bu.edu
+157. Latin American Student Association at Boston University (bulatam): isacw@bu.edu
+158. LatinasBU (latinasbu): latinasbu@gmail.com
+159. Lebanese Club (lebanese-club): lebaneseclub@bu.edu
+160. Let's Talk About It (letstalkaboutit): letstalk@bu.edu
+161. Linguistics Association (linguistics-association): maiyawhy@bu.edu
+162. Mahjong Club (mahjong-club): bumahjong@gmail.com
+163. Malaysian Cultural Association (malaysian-cultural-association): myca.bostonuniversity@gmail.com
+164. Marine Science Association (marine-science-association): fosterd@bu.edu
+165. Marketing Club (bumkc): masante@bu.edu
+166. Mars Rover Club (bumrc): bumrc@bu.edu
+167. Mathematics Association at BU (mabu): bumaa@bu.edu
+168. Medical Ethics Society (medical-ethics-society): bumedes@bu.edu
+169. Mexican Students Association (mexican-students-association): mexasbostonu@gmail.com
+170. MicroFinance Initiative (microfinance): bumfi@bu.edu
+171. Migration Tales (migrationtales): themigrationtales@gmail.com
+172. Mind and Brain Society (mind-and-brain-society): ombs@bu.edu
+173. Minority Association of Pre-Medical/Health Students (minority-association-of-pre-med-health-students): mapsbu@gmail.com
+174. Mixed Student Union (mixedstudentunion): bumsu@bu.edu
+175. Mock Mediation Organization (mock-mediation-organization): mockmed@bu.edu
+176. Mock Trial Organization (mto): mto@bu.edu
+177. Moot Court Organization (bumco): bumco@bu.edu
+178. Mu Epsilon Delta (muepsilondelta): bostonumed@gmail.com
+179. National Society of Black Engineers (national-society-of-black-engineers): bu.nsbe.president@gmail.com
+180. National Student Speech Language Hearing Association (nationalstudentspeechlanguagehearingassociation): bostonunsslha@gmail.com
+181. Naturally (bu-naturally): natural@bu.edu
+182. Nigerian Students Association (bu-nigerian-students-association): adedoyin@bu.edu
+183. NMDP (nmdp): btmocbu@bu.edu
+184. North African Student Organization (nasoatbostonu): bunaso22@gmail.com
+185. Nutrition and Dietetics Club (nutrition-and-dietetics-club): bunutritionclub@gmail.com
+186. Off The Hook (offthehook): eierhun@bu.edu
+187. Omega Phi Alpha (omega-phi-alpha): alpha.mu.president@omegaphialpha.org
+188. On Beat (bob): dejaford@bu.edu
+189. One Love Foundation (onelovebu): fundraising@joinonelove.org
+190. Ophthalmology/Optometry Society (buos): BUOS@bu.edu
+191. Oral Health Advocacy-BU (oha-bu): ohabu@bu.edu
+192. Organization of Pakistani Students (organization-of-pakistani-students): pakistan@bu.edu
+193. Outing Club (outing-club): buoutingclub@gmail.com
+194. Palestine Student Association at BU (bupsa): lsarhan@bu.edu
+195. PERIOD. (period): period@bu.edu
+196. Persian Students Association (iranian-students-association): skhatami@bu.edu
+197. Phi Alpha Delta (pad): bupad@bu.edu
+198. Phi Chi Theta Business Fraternity (phi-chi-theta-business-fraternity): pct.bostonu@gmail.com
+199. Phi Gamma Nu (pgnleaders): expansionvp@pgnleaders.org
+200. Philosophy, Politics & Economics Society (philosophy-politics-economics-society): nfowles@bu.edu
+201. Pioneer Impact Consulting (pic): pic@bu.edu
+202. PMReady (pmready): pmready@bu.edu
+203. Pre Dental Society (pre-dental-society): predent@bu.edu
+204. Pre-Health Professionals Club (phpc): phpcbu@gmail.com
+205. Pre-Law Review (pre-law-review): plr@bu.edu
+206. Pre-Law Society (pre-law-society): pls@bu.edu
+207. Pre-Medical Society (premedical-society): bupremed@gmail.com
+208. Pre-Physician Assistant Club (pre-physician-assistant-club): prepac@bu.edu
+209. Pre-Veterinary and Animal Lovers Society (pre-veterinary-and-animal-lovers-society): bupals@bu.edu
+210. Prevent at BU (buprevent): hvora@bu.edu
+211. Pride in Business (pride-in-business): prideinbusinessbu@gmail.com
+212. Project Sunshine (project-sunshine): llaurenn@bu.edu
+213. Public Relations Student Society of America (public-relations-student-society-of-america): gracecu@bu.edu
+214. Puerto Rican Student Association (puerto-rican-student-association): prsa@bu.edu
+215. Queer Activist Collective (queeractivistcollective): queer@bu.edu
+216. Quiz Bowl Club (bu-quiz-bowl): quizbowl@bu.edu
+217. Real Estate Club (burec): bureclub@bu.edu
+218. Recreational Tennis Club (burectennisclub): recten@bu.edu
+219. Red Cross Volunteers (red-cross-volunteers): None
+220. Retail, Luxury & Consumer Association (rlcassociation): retailluxuryconsumer@gmail.com
+221. Rhythm n Beat (rhythmnbeat): rnbstep@bu.edu
+222. Rocket Propulsion Group (rocket-propulsion-group): burpg@bu.edu
+223. Rotaract (rotaract): rotaract@bu.edu
+224. Running Club (running-club): burunningclub@gmail.com
+225. Russian Speaking Society (russian-speaking-society): russian@bu.edu
+226. Sahelian Student Association (54-3-47-570-3-550-470): sahelassocbu@gmail.com
+227. Saudi Cultural Club (saudi-cultural-club): Busaudis@bu.edu
+228. SciBU: Journal of Undergraduate Science and Research (scibu): scibu@bu.edu
+229. SHADES (shades): shades@bu.edu
+230. Singapore Students Association (singapore-students-association): bussa@bu.edu
+231. Sisters United (sisters-united): sistersu@bu.edu
+232. Ski & Snowboard Club (buskiandboard): skiclub@bu.edu
+233. Skincare Club (buskincareclub): skincare@bu.edu
+234. Smash Bros Society (smash-bros-society): kweiss@bu.edu
+235. Society For Biomaterials (busfb): bostonuniversitysfb@gmail.com
+236. Society of Asian Scientists and Engineers (society-of-asian-scientists-and-engineers): busase@bu.edu
+237. Society of Hispanic Professional Engineers (society-of-hispanic-professional-engineers): shpe@bu.edu
+238. Society of Physics Students (photon): None
+239. Society of Professional Journalists (society-of-professional-journalists): buspj@bu.edu
+240. Society of Sci-Fi & Horror (sosh): buscifiandhorror@gmail.com
+241. Society of Women Engineers (society-of-women-engineers): swe@bu.edu
+242. Society of Women in Space Exploration (swise): swiseatbu@gmail.com
+243. South Asian Student Association (busasa): busasa@bu.edu
+244. Sports Analytics Group at BU (sagbu): busportsanalytics@gmail.com
+245. Sports Business Club (busbc): busbc@bu.edu
+246. Stock Trading at Boston University (stocktradingatbu): stabu@bu.edu
+247. Students for Israel at BU (bu-students-for-israel): edukorn@bu.edu
+248. Students Learning about Israel-Palestine (students-learning-israel-palestine): buslip22@gmail.com
+249. Students of Caribbean Ancestry (students-of-caribbean-ancestry): busoca@bu.edu
+250. Students of East African Ancestry (seaa): seaabostonu@gmail.com
+251. Study of Religions Club (sor): sor@bu.edu
+252. Survivor: Boston University (survivorbu): survivorbostonuni@gmail.com
+253. Sustainable Business Club (sustainablebusinessclub): busustainbusiness@gmail.com
+254. Sustainable Ocean Alliance (sustainable-ocean-alliance): soa18@bu.edu
+255. Taiwanese American Student Association (taiwanese-american-student-association): butasainfo@gmail.com
+256. Taiwanese Overseas Students Association (taiwanese-overseas-students-association): tosa@bu.edu
+257. TAMID Group (tamid-group): bu@tamidgroup.org
+258. Tech Talks (butechtalks): None
+259. Terrier Motorsport (terriermotorsport): butm@bu.edu
+260. Terrier Ride Engineering Club (trec_bu): trec@bu.edu
+261. Test Club (testclub): sao@bu.edu
+262. Thai Student Association (thai-student-association): buthaisa@gmail.com
+263. The Alexander Hamilton Society (alexander-hamilton-society): bostonuniversityahs@gmail.com
+264. The Boston Chapter of The Urban Garden Initiative (tugi-boston): tugiboston@gmail.com
+265. The Central Asian Student Association (casa-bu): None
+266. The DREAM Program (dream-program): budreamrecruit@gmail.com
+267. The Film Production Club of Boston University (thebostonuniversityshortfilmclub): redlist@bu.edu
+268. The Politica at Boston University (the-politica): pbu@bu.edu
+269. The Women's Network: BU (thewomensnetwork): thewomensnetwork.bu@gmail.com
+270. The Word and Way Society (the-word-and-way-society): thewordandwaysociety@gmail.com
+271. Theta Tau (thetataubu): thetatau@bu.edu
+272. Trading Card Games Club (butcg): bostonuniversitytcgclub@gmail.com
+273. Trans Listening Circle (trans-listening-circle): translisteningcircle@gmail.com
+274. Turkish Student Association (turkish-student-association): None
+275. Umoja (umoja): umoja@bu.edu
+276. Undergraduate Architecture Association (buarchitecture): uaa@bu.edu
+277. Undergraduate Classics Association (undergraduate-classics-association): uca@bu.edu
+278. Undergraduate Economics Association (uea): uea@bu.edu
+279. Undergraduate Engineering Society (buues): jnrich@bu.edu
+280. Undergraduate English Literature Association (uela): englisha@bu.edu
+281. Undergraduate History Association (undergraduate-history-association): uha@bu.edu
+282. Undergraduate Philosophy Association (undergraduate-philosophy-association): jsperl@bu.edu
+283. Undergraduate Psychology Association (undergraduate-psychology-association): ugradpsy@bu.edu
+284. Undergraduate Public Health Association (undergraduate-public-health-association): upha@bu.edu
+285. Undergraduate Sociology Association (none): mjshaw@bu.edu
+286. Undergraduate Women in Economics (buuwe): uwe@bu.edu
+287. Undergraduate Women in Science and Engineering (uwise): uwise@bu.edu
+288. Undergraduate World Languages & Literatures Association (undergraduate-wll-association): buwa@bu.edu
+289. UNICEF Campus Initiative (unicef-campus-initiative): unicef@bu.edu
+290. University Blood Initiative, BU Chapter (bostonuniversityubi): bsolot@bu.edu
+291. Unmanned Aerial Vehicles Team (unmanned-aerial-vehicles-team): uav@bu.edu
+292. Urban Birding Club (burbanbirding): birding@bu.edu
+293. Urbanism Club at BU (urbanistsbu): burbanists@gmail.com
+294. Venture Group BU (buvcg): buvcgroup@gmail.com
+295. Veteran Assist (veteranassist): buveteranassist@gmail.com
+296. Vietnamese Student Association (vietnamese-student-association): buvsa@bu.edu
+297. Visual Journalists Association (buvja): buvja@bu.edu
+298. Volunteers for Inclusion and Accessibility (volunteers-inclusion-accessibility): svsn@bu.edu
+299. Women in Computer Science (women-in-computer-science): wics@bu.edu
+300. Women in Data Science (bu_wids): bostonuwids@gmail.com
+301. Women In Law (wil): wilbu@bu.edu
+302. Women in Neuroscience (winbostonuwixsitecom): buwin@bu.edu
