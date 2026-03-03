@@ -1,20 +1,20 @@
-295. Veteran Assist (veteranassist): buveteranassist@gmail.com
-288. Undergraduate World Languages & Literatures Association (undergraduate-wll-association): buwa@bu.edu
-32. Asian Student Union (asian-student-union): buasu@bu.edu
-285. Undergraduate Sociology Association (none): mjshaw@bu.edu
-250. Students of East African Ancestry (seaa): seaabostonu@gmail.com
-69. Club Colombia (clubcolombiabu): clubcol@bu.edu
-31. Artificial Intelligence Society (aisociety): buais@bu.edu
-92. F1Tenth Autonomous Racing Organization at Boston University (f1tenthautonomousracingorg): f1tenthbu@gmail.com
-95. FilmBiz: Boston University’s Entertainment Business Club (filmbiz): bufilmbiz@gmail.com
-179. National Society of Black Engineers (national-society-of-black-engineers): bu.nsbe.president@gmail.com
-173. Minority Association of Pre-Medical/Health Students (minority-association-of-pre-med-health-students): mapsbu@gmail.com
-93. FeelGood World (feelgood-world): feelgood@bu.edu
-141. International Affairs Association (international-affairs-association): buiaa.exec@gmail.com
-225. Russian Speaking Society (russian-speaking-society): russian@bu.edu
-171. Migration Tales (migrationtales): themigrationtales@gmail.com
-94. Filipino Student Association (filipino-student-association): bufsa@bu.edu
-30. Art History Association (art-history-association): aha@bu.edu
-38. Baja - Society of Automotive Engineers (baja-sae): saebaja@bu.edu
-101. FORGE Design Studios (forgedesignstudios): budesign@bu.edu
-212. Project Sunshine (project-sunshine): llaurenn@bu.edu
+feelgood@bu.edu: FeelGood World (feelgood-world)
+thewomensnetwork.bu@gmail.com: The Women's Network: BU (thewomensnetwork)
+kweiss@bu.edu: Smash Bros Society (smash-bros-society)
+skiclub@bu.edu: Ski & Snowboard Club (buskiandboard)
+terriergliding@gmail.com: Gliding &amp; Soaring at Boston University (bugliding)
+ombs@bu.edu: Mind and Brain Society (mind-and-brain-society)
+asb.bostonu@gmail.com: Arab Students in Business at BU (bostonuniversityarabstudentsinbusiness)
+recten@bu.edu: Recreational Tennis Club (burectennisclub)
+yasmeene@bu.edu: Egyptian Club (egyptian-club)
+bugengb@gmail.com: Global Engineering Brigade (global-engineering-brigade)
+translisteningcircle@gmail.com: Trans Listening Circle (trans-listening-circle)
+bostonuwids@gmail.com: Women in Data Science (bu_wids)
+bucys@bu.edu: Cybersecurity Association (cybersecurity-assn)
+bumfi@bu.edu: MicroFinance Initiative (microfinance)
+absa.bostonu@gmail.com: Ahlul-Bayt Student Association at Boston University (absanetwork)
+tosa@bu.edu: Taiwanese Overseas Students Association (taiwanese-overseas-students-association)
+bugso@bu.edu: Ghanaian Student Organization (gso)
+phpcbu@gmail.com: Pre-Health Professionals Club (phpc)
+chessbu@bu.edu: Chess Club (chess-club)
+bufilmbiz@gmail.com: FilmBiz: Boston University’s Entertainment Business Club (filmbiz)

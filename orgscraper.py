@@ -34,9 +34,9 @@ while True:
             "WebsiteKey": key,
             "Email": email
         })
-        print(f"{len(all_orgs)}. {name} ({key}): {email}")
+        print(f"{len(all_orgs)}. {email}: {name} ({key})")
         with open("bu_org_emails.txt", "a") as f:
-            f.write(f"{len(all_orgs)}. {name} ({key}): {email}\n")
+            f.write(f"{len(all_orgs)}. {email}: {name} ({key})\n")
 
     params["skip"] += params["top"]
 
