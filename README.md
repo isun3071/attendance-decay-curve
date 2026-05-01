@@ -133,8 +133,10 @@ https://bostonu.qualtrics.com/jfe/form/SV_5cZk4dw6C5mEh9A
 > 
 > Thank you for your time.
 >
-> Best,
-> Ian Sun
+> Best, 
+> 
+> Ian Sun 
+> 
 > Boston University
 
 
@@ -143,6 +145,20 @@ https://bostonu.qualtrics.com/jfe/form/SV_5cZk4dw6C5mEh9A
 Additional outreach was conducted via Instagram DMs to organizations with active social media presence where personal acquaintance enabled warmer contact.
 
 Institutional amplification via SLIC (student leadership and impact center) was attempted but declined due to university policy. All responses therefore reflect direct grassroots outreach without institutional backing.
+
+The email sent for activation reads as follows:
+
+> Hi,
+> 
+> Just following up on my earlier email about attendance patterns in student orgs at BU - I wanted to resurface this in case it got buried.
+> 
+> The survey takes about 5 minutes and your org's data would genuinely help the analysis.
+> 
+> Link is here for reference: https://bostonu.qualtrics.com/jfe/form/SV_5cZk4dw6C5mEh9A
+> 
+> Thanks so much, 
+> 
+> Ian Sun
 
 **Outreach timeline:**
 
