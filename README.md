@@ -119,24 +119,24 @@ Outreach followed a deliberate strategy of two stages:
 
 The email sent for planting reads as follows:
 
->>>
-Hello,
 
-My name is Ian Sun, and I’m a BU student conducting a research project on attendance patterns in voluntary student organizations this semester.
-
-Your organization is included in this study, and we’d greatly appreciate your participation.
-
-The survey takes about 5–8 minutes and asks for high-level weekly attendance counts for the early part of the semester. No sensitive information is collected, and responses will be anonymized for analysis.
-
-Survey link:
+> Hello,
+> 
+> My name is Ian Sun, and I’m a BU student conducting a research project on attendance patterns in voluntary student organizations this semester.
+> 
+> Your organization is included in this study, and we’d greatly appreciate your participation.
+> 
+> The survey takes about 5–8 minutes and asks for high-level weekly attendance counts for the early part of the semester. No sensitive information is collected, and responses will be anonymized for analysis.
+> 
+> Survey link:
 https://bostonu.qualtrics.com/jfe/form/SV_5cZk4dw6C5mEh9A
+> 
+> Thank you for your time.
 
-Thank you for your time.
+> Best,
+> Ian Sun
+> Boston University
 
-Best,
-Ian Sun
-Boston University
->>>
 
 **Stage 2 (Activation):** Follow-up emails sent after spring break in the same thread as the original outreach. Survey link repeated for accessibility. Follow-up timing was staggered by cohort maturation.
 
