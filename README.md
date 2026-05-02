@@ -15,6 +15,8 @@ make install
 make run
 ```
 
+Alternatively you can open `adc.ipynb` separately in Jupyter or Google Colab and run all cells from top to bottom to get the same results.
+
 ### Requirements
 - Python 3.9+
 - See `requirements.txt` for full dependency list
@@ -61,13 +63,12 @@ attendance-decay-curve/
 ├── Makefile                   # Reproducibility commands
 ├── requirements.txt           # Python dependencies
 ├── adc.ipynb                  # Main analysis notebook
+├── bu_org_emails.txt          # the 302 orgs scraped off of Terrier Central
 ├── data/
-│   └── responses.csv          # Anonymized Qualtrics export
+│   └── responses.csv          # Qualtrics export
 ├── orgsscraper.py             # CampusLabs API scraper
 ├── randomsample.py            # Random org sampler
-└── .github/
-    └── workflows/
-        └── test.yml           # GitHub Actions CI
+├── survey_link.txt            # link to the qualtrics survey used
 ```
 
 ---
