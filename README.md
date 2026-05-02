@@ -2,7 +2,7 @@
 
 **CS506: Data Science Tools and Applications | Boston University | Spring 2026**
 
-> 📺 [Video Presentation]: https://youtu.be/0jFFjJNbtyI
+> 📺 [Video Presentation](https://youtu.be/0jFFjJNbtyI)
 
 ---
 
