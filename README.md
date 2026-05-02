@@ -63,7 +63,6 @@ attendance-decay-curve/
 ├── Makefile                   # Reproducibility commands
 ├── requirements.txt           # Python dependencies
 ├── adc.ipynb                  # Main analysis notebook
-├── bu_org_emails.txt          # the 302 orgs scraped off of Terrier Central
 ├── data/
 │   └── responses.csv          # Qualtrics export
 ├── orgsscraper.py             # CampusLabs API scraper
