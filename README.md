@@ -9,7 +9,7 @@
 ## How to Reproduce Results
 
 ```bash
-git clone https://github.com/YOUR_REPO_HERE
+git clone https://github.com/isun3071/attendance-decay-curve.git
 cd attendance-decay-curve
 make install
 make run
